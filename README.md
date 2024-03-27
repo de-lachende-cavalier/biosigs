@@ -10,14 +10,11 @@ In any case, and for extra clarity, the scripts are "compare_mses.m", "hrv.m", "
 - misc.m: A file to explore miscellaneous experiments.
 - demo.m: A file for playing around with the code.
 
-The "spec.txt" file containes the specification as written on Ariel.
-
 # Usage
 
 The way to use the code should be straight forward: all the scripts can be run with the classical "Run" button and have also been divided in pieces for ease of use, so that we can run certain sections only with "Run Section".
 
 I have tried to mantain the code as readable and obvious as possible, adding comments where it seemed necessary.
-
 
 # Data
 
